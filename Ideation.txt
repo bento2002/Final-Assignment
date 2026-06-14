@@ -1,0 +1,2 @@
+Prompt injection generator - a user inputs two files:  the "Injection Function" which describes the purpose of the injection and a corresponding "Carrier" file that is the file in which we will equip with the injection.
+
