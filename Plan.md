@@ -73,7 +73,7 @@ Each PDF embeds the injection technique at the file level:
 ---
 
 ## Part 2: EDA
-
+- Duplicate Check
 - Class distribution (injection_type counts, is_injected ratio)
 - Text length distribution (visible_text vs extracted_text length delta — delta reveals how much is hidden)
 - Document type breakdown per injection type
